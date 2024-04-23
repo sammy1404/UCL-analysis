@@ -1,8 +1,6 @@
 **Data analysis on player stats from the 2022 Champions league season**
 
-a data analysis project of the 2022 Champions league season where different stats for different players in their 
-respective positions are analysed. i have also made use of a **custom radar chart** that plots 5 different parameters of players 
-in Different positions up against each other which provides for a comprehensive comparison between different players in the league
+a data analysis project of the 2022 Champions league season where different stats for different players in their respective positions are analysed. i have also made use of a **custom radar chart** that plots 5 different parameters of players in Different positions up against each other which provides for a comprehensive comparison between different players in the league
 
 
 **Attacking stats**
@@ -25,4 +23,6 @@ in Different positions up against each other which provides for a comprehensive 
 
 
 theres also a comprehensive report written on the given data
-which can be found in the repository called **Champions League analysis.pdf**
+which can be found in the repository called **python project.pdf**
+
+this will give you a better understanding of the datasets used and also will allow you to check the graph outputs and provide an overall better understanding about the data being visualised here.
